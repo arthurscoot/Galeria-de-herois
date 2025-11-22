@@ -1,0 +1,293 @@
+[
+    {
+        "nome": "Juno",
+        "titulo": "A primeira humana a nascer em Marte",
+        "função": "Suporte",
+        "informação": "Juno é uma personagem fictícia criada para este exemplo. Suas habilidades incluem a manipulação de campos gravitacionais para curar aliados e repelir inimigos.",
+        "link": "juno",
+        "img": "juno.png",
+        "video": "https://youtu.be/bNaQVRr8Qyg?si=Wbb8C1kf6UJ2Sofg"
+    },
+    {
+        "nome": "Ana",
+        "titulo": "Uma das fundadoras da Overwatch, usa suas habilidades para defender seu lar.",
+        "função": "Suporte",
+        "informação": "Com seu Rifle Biótico, Ana pode tanto curar seus aliados quanto causar dano contínuo em seus inimigos à distância. Suas Granadas Bióticas curam e aumentam a cura recebida por aliados, enquanto impedem inimigos de serem curados.",
+        "link": "ana",
+        "img": "ana.png",
+        "video":"https://youtu.be/KW5eP_xDM6Q?si=ZGRo3Cvduqzp1-57"
+    },
+    {
+        "nome": "Baptiste",
+        "titulo": "Médico de combate de elite que agora ajuda os impactados pela guerra.",
+        "função": "Suporte",
+        "informação": "",
+        "link": "baptiste",
+        "img": "baptiste.png",
+        "video":"https://youtu.be/pg9xerZ5xog?si=OLRAYYipX7VK5BO_"
+    },
+    {
+        "nome": "Brigitte",
+        "titulo": "Pegou em armas para defender aqueles que precisam de proteção.",
+        "função": "Suporte",
+        "informação": "",
+        "link": "brigitte",
+        "img": "brigitte.png"
+    },
+    {
+        "nome": "Illari",
+        "titulo": "A última filha dos Inti, empunhando o poder do sol.",
+        "função": "Suporte",
+        "informação": "",
+        "link": "illari",
+        "img": "illari.png"
+    },
+    {
+        "nome": "Kiriko",
+        "titulo": "Uma protetora feroz com um coração de ouro.",
+        "função": "Suporte",
+        "informação": "",
+        "link": "kiriko",
+        "img": "kiriko.png"
+    },
+    {
+        "nome": "Lúcio",
+        "titulo": "Personagem favorito do Max",
+        "função": "Suporte",
+        "informação": "",
+        "link": "lucio",
+        "img": "lucio.png"
+    },
+     {
+        "nome": "LifeWeaver",
+        "titulo": "O cientista brilhante por trás da bioluz",
+        "função": "Suporte",
+        "informação": "",
+        "link": "lifeweaver",
+        "img": "lifeweaver.png"
+    },
+     {
+        "nome": "Wuyang",
+        "titulo": "Portador da tecnologia de cura da Faculdade da Água da Universidade Wuxing",
+        "função": "Suporte",
+        "informação": "",
+        "link": "wuyang",
+        "img": "wuyang.webp"
+    },
+    {
+        "nome": "Zenyatta",
+        "titulo": "Monge ômnico que vaga pelo mundo em busca de iluminação espiritual.",
+        "função": "Suporte",
+        "informação": "",
+        "link": "zenyatta",
+        "img": "zenyatta.png"
+    },
+    {
+        "nome": "Ashe",
+        "titulo": "Líder da gangue Deadlock e uma pistoleira respeitada.",
+        "função": "Dano",
+        "informação": "",
+        "link": "ashe",
+        "img": "ashe.png"
+    },
+    {
+        "nome": "Bastion",
+        "titulo": "Autômato de batalha que explora o mundo, fascinado pela natureza.",
+        "função": "Dano",
+        "informação": "",
+        "link": "bastion",
+        "img": "bastion.png"
+    },
+    {
+        "nome": "Cassidy",
+        "titulo": "Pistoleiro que busca justiça com seus próprios termos.",
+        "função": "Dano",
+        "informação": "",
+        "link": "cassidy",
+        "img": "cassidy.png"
+    },
+    {
+        "nome": "Echo",
+        "titulo": "Robô adaptativo programado com inteligência artificial de rápida evolução.",
+        "função": "Dano",
+        "informação": "",
+        "link": "echo",
+        "img": "echo.png"
+    },
+    {
+        "nome": "Genji",
+        "titulo": "Ciborgue ninja que encontrou a paz com seu corpo aprimorado.",
+        "função": "Dano",
+        "informação": "",
+        "link": "genji",
+        "img": "genji.png"
+    },
+    {
+        "nome": "Hanzo",
+        "titulo": "Arqueiro mortal e assassino com habilidade inigualável.",
+        "função": "Dano",
+        "informação": "",
+        "link": "hanzo",
+        "img": "hanzo.png"
+    },
+    {
+        "nome": "Junkrat",
+        "titulo": "Maníaco por explosivos que vive para o caos e a destruição.",
+        "função": "Dano",
+        "informação": "",
+        "link": "junkrat",
+        "img": "junkrat.png"
+    },
+    {
+        "nome": "Mei",
+        "titulo": "Climatologista que luta para preservar o meio ambiente.",
+        "função": "Dano",
+        "informação": "",
+        "link": "mei",
+        "img": "mei.png"
+    },
+    {
+        "nome": "Pharah",
+        "titulo": "Oficial de segurança que patrulha os céus em sua armadura de combate.",
+        "função": "Dano",
+        "informação": "",
+        "link": "pharah",
+        "img": "pharah.png"
+    },
+    {
+        "nome": "Reaper",
+        "titulo": "Mercenário que caça os ex-agentes da Overwatch.",
+        "função": "Dano",
+        "informação": "",
+        "link": "reaper",
+        "img": "reaper.png"
+    },
+    {
+        "nome": "Sojourn",
+        "titulo": "Ex-capitã da Overwatch com aprimoramentos cibernéticos.",
+        "função": "Dano",
+        "informação": "",
+        "link": "sojourn",
+        "img": "sojourn.png"
+    },
+    {
+        "nome": "Soldado: 76",
+        "titulo": "Vigilante que busca expor a verdade por trás do colapso da Overwatch.",
+        "função": "Dano",
+        "informação": "",
+        "link": "soldado76",
+        "img": "soldado76.png"
+    },
+    {
+        "nome": "Sombra",
+        "titulo": "Hacker notória que usa informações para manipular os poderosos.",
+        "função": "Dano",
+        "informação": "",
+        "link": "sombra",
+        "img": "sombra.png"
+    },
+    {
+        "nome": "Tracer",
+        "titulo": "Aventureira que salta no tempo, sempre otimista e cheia de energia.",
+        "função": "Dano",
+        "informação": "",
+        "link": "tracer",
+        "img": "tracer.png"
+    },
+    {
+        "nome": "D.Va",
+        "titulo": "Ex-pro-gamer que agora pilota um mecha de última geração.",
+        "função": "Tanque",
+        "informação": "",
+        "link": "dva",
+        "img": "dva.png"
+    },
+    {
+        "nome": "Doomfist",
+        "titulo": "Líder da Talon que acredita que o conflito fortalece a humanidade.",
+        "função": "Tanque",
+        "informação": "",
+        "link": "doomfist",
+        "img": "doomfist.png"
+    },
+    {
+        "nome": "Junker Queen",
+        "titulo": "A governante implacável de Junkertown.",
+        "função": "Tanque",
+        "informação": "",
+        "link": "junkerqueen",
+        "img": "junkerqueen.png"
+    },
+    {
+        "nome": "Mauga",
+        "titulo": "Um mercenário com duas metralhadoras e um grande sorriso.",
+        "função": "Tanque",
+        "informação": "",
+        "link": "mauga",
+        "img": "mauga.png"
+    },
+    {
+        "nome": "Orisa",
+        "titulo": "Guardiã robótica de Numbani, criada para proteger a cidade.",
+        "função": "Tanque",
+        "informação": "",
+        "link": "orisa",
+        "img": "orisa.png"
+    },
+    {
+        "nome": "Ramattra",
+        "titulo": "Líder da Null Sector, lutando pela liberdade dos ômnicos.",
+        "função": "Tanque",
+        "informação": "",
+        "link": "ramattra",
+        "img": "ramattra.png"
+    },
+    {
+        "nome": "Reinhardt",
+        "titulo": "Um cavaleiro de uma era passada que vive por um código de honra.",
+        "função": "Tanque",
+        "informação": "",
+        "link": "reinhardt",
+        "img": "reinhardt.png"
+    },
+    {
+        "nome": "Roadhog",
+        "titulo": "Assassino impiedoso conhecido por sua crueldade e gancho.",
+        "função": "Tanque",
+        "informação": "",
+        "link": "roadhog",
+        "img": "roadhog.png"
+    },
+    {
+        "nome": "Sigma",
+        "titulo": "Astrofísico excêntrico que ganhou o poder de controlar a gravidade.",
+        "função": "Tanque",
+        "informação": "",
+        "link": "sigma",
+        "img": "sigma.png"
+    },
+    {
+        "nome": "Winston",
+        "titulo": "Gorila superinteligente e cientista brilhante.",
+        "função": "Tanque",
+        "informação": "",
+        "link": "winston",
+        "img": "winston.png"
+    },
+    {
+        "nome": "Wrecking Ball",
+        "titulo": "Um hamster geneticamente modificado que pilota uma bola de demolição.",
+        "função": "Tanque",
+        "informação": "",
+        "link": "wreckingball",
+        "img": "wreckingball.png"
+    },
+    {
+        "nome": "Zarya",
+        "titulo": "Uma das mulheres mais fortes do mundo, que protege sua pátria.",
+        "função": "Tanque",
+        "informação": "",
+        "link": "zarya",
+        "img": "zarya.png"
+    }
+]

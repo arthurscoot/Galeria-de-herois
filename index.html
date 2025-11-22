@@ -1,0 +1,41 @@
+ <!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Galeria de heróis</title>
+</head>
+<body>
+    <header>
+      <img src="images/logo.png" alt="Logo Overwatch 2" class="header-logo">
+      <h1>Galeria de heróis</h1>  
+      <div class="search-container">
+           <select id="role-filter" class="role-filter">
+          <option value="geral">Geral</option>
+          <option value="dano">Dano</option>
+          <option value="suporte">Suporte</option>
+          <option value="tanque">Tanque</option>
+      </select>
+        <input class="search-input" type="text" placeholder="Escolha seu herói">
+        <button id="botao-busca" onclick="iniciarBusca()">Buscar</button>
+      </div>
+    </header>
+    <main>
+        <section class="card-container"> 
+        </section>
+    </main> 
+    <section id="hero-detail-view" class="hidden">
+        <!-- O conteúdo do herói será inserido aqui pelo JavaScript -->
+    </section>
+
+
+    <footer class="footer">
+        <ul class="footer-links">
+            <li><a href="https://youtu.be/0LZUrSn264w?si=DxNErsqWPbnyx7Yh" target="_blank" rel="noopener noreferrer">receba</a></li>
+            <li><a href="https://youtu.be/0LZUrSn264w?si=DxNErsqWPbnyx7Yh" target="_blank" rel="noopener noreferrer">graças a deus pai</a></li>
+        </ul>
+    </footer>
+<script src="script.js"></script>
+</body>
+</html>
