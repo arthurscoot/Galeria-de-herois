@@ -34,7 +34,7 @@
         "titulo": "Pegou em armas para defender aqueles que precisam de proteção.",
         "função": "Suporte",
         "informação": "",
-        "dificuldade": "Média",
+        "dificuldade": "Difícil",
         "link": "brigitte",
         "img": "brigitte.png"
     },
@@ -91,6 +91,24 @@
         "dificuldade": "Difícil",
         "link": "zenyatta",
         "img": "zenyatta.png"
+    },
+    {
+        "nome": "Mercy",
+        "titulo": "Cientista brilhante, anjo da guarda e defensora convicta da paz.",
+        "função": "Suporte",
+        "informação": "",
+        "dificuldade": "Média",
+        "link": "mercy",
+        "img": "mercy.png"
+    },
+    {
+        "nome": "Moira",
+        "titulo": "Geneticista brilhante e controversa que está na vanguarda da engenharia genética.",
+        "função": "Suporte",
+        "informação": "",
+        "dificuldade": "Fácil",
+        "link": "moira",
+        "img": "moira.png"
     },
     {
         "nome": "Ashe",
@@ -218,6 +236,51 @@
         "link": "tracer",
         "img": "tracer.png"
     },
+      {
+        "nome": "Freja",
+        "titulo": "Valquíria renegada que empunha uma lança de energia e clama por honra no campo de batalha.",
+        "função": "Dano",
+        "informação": "",
+        "dificuldade": "Média",
+        "link": "freja",
+        "img": "freja.png"
+    },
+      {
+        "nome": "Symmetra",
+        "titulo": "Arquiteta que manipula construções de luz sólida para construir um mundo perfeito.",
+        "função": "Dano",
+        "informação": "",
+        "dificuldade": "Média",
+        "link": "symmetra",
+        "img": "symmetra.png"
+    },
+     {
+        "nome": "Torbjorn",
+        "titulo": "Engenheiro mestre que projeta sistemas de armas para um mundo melhor.",
+        "função": "Dano",
+        "informação": "",
+        "dificuldade": "Fácil",
+        "link": "torbjorn",
+        "img": "torbjorn.png"
+    },
+     {
+        "nome": "Venture",
+        "titulo": "Aventureira que salta no tempo, sempre otimista e cheia de energia.",
+        "função": "Dano",
+        "informação": "",
+        "dificuldade": "Fácil",
+        "link": "venture",
+        "img": "venture.png"
+    },
+     {
+        "nome": "Widowmaker",
+        "titulo": "Aventureira que salta no tempo, sempre otimista e cheia de energia.",
+        "função": "Dano",
+        "informação": "",
+        "dificuldade": "Difícil",
+        "link": "widowmaker",
+        "img": "widowmaker.png"
+    },
     {
         "nome": "D.Va",
         "titulo": "Ex-pro-gamer que agora pilota um mecha de última geração.",
@@ -325,5 +388,14 @@
         "dificuldade": "Fácil",
         "link": "zarya",
         "img": "zarya.png"
+    },
+    {
+        "nome": "Harzard",
+        "titulo": "Uma das mulheres mais fortes do mundo, que protege sua pátria.",
+        "função": "Tanque",
+        "informação": "",
+        "dificuldade": "Fácil",
+        "link": "harzard",
+        "img": "harzard.png"
     }
 ]
