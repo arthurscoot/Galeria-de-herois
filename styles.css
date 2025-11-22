@@ -37,9 +37,20 @@ body::before {
     height: 100%;
     background-image: url('images/silhuetas.png');
     background-repeat: repeat; /* Repete a imagem para formar um padrão */
+    background-position: top right; /* Inicia a imagem no canto superior direito */
     opacity: 0.05; /* Define a transparência. Ajuste entre 0 e 1. */
     z-index: -1; /* Coloca o padrão atrás de todo o conteúdo */
     pointer-events: none; /* Garante que não interfira com cliques */
+    animation: moveBackground 120s linear infinite; /* Aplica a animação */
+}
+
+@keyframes moveBackground {
+    from {
+        background-position-x: 0; /* Posição inicial horizontal */
+    }
+    to {
+        background-position-x: 100%; /* Posição final horizontal, criando o loop */
+    }
 }
 
 header {

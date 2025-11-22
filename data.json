@@ -4,6 +4,7 @@
         "titulo": "A primeira humana a nascer em Marte",
         "função": "Suporte",
         "informação": "Juno é uma personagem fictícia criada para este exemplo. Suas habilidades incluem a manipulação de campos gravitacionais para curar aliados e repelir inimigos.",
+        "dificuldade": "Fácil",
         "link": "juno",
         "img": "juno.png",
         "video": "https://youtu.be/bNaQVRr8Qyg?si=Wbb8C1kf6UJ2Sofg"
@@ -13,6 +14,7 @@
         "titulo": "Uma das fundadoras da Overwatch, usa suas habilidades para defender seu lar.",
         "função": "Suporte",
         "informação": "Com seu Rifle Biótico, Ana pode tanto curar seus aliados quanto causar dano contínuo em seus inimigos à distância. Suas Granadas Bióticas curam e aumentam a cura recebida por aliados, enquanto impedem inimigos de serem curados.",
+        "dificuldade": "Difícil",
         "link": "ana",
         "img": "ana.png",
         "video":"https://youtu.be/KW5eP_xDM6Q?si=ZGRo3Cvduqzp1-57"
@@ -22,6 +24,7 @@
         "titulo": "Médico de combate de elite que agora ajuda os impactados pela guerra.",
         "função": "Suporte",
         "informação": "",
+        "dificuldade": "Média",
         "link": "baptiste",
         "img": "baptiste.png",
         "video":"https://youtu.be/pg9xerZ5xog?si=OLRAYYipX7VK5BO_"
@@ -31,6 +34,7 @@
         "titulo": "Pegou em armas para defender aqueles que precisam de proteção.",
         "função": "Suporte",
         "informação": "",
+        "dificuldade": "Média",
         "link": "brigitte",
         "img": "brigitte.png"
     },
@@ -39,6 +43,7 @@
         "titulo": "A última filha dos Inti, empunhando o poder do sol.",
         "função": "Suporte",
         "informação": "",
+        "dificuldade": "Difícil",
         "link": "illari",
         "img": "illari.png"
     },
@@ -47,6 +52,7 @@
         "titulo": "Uma protetora feroz com um coração de ouro.",
         "função": "Suporte",
         "informação": "",
+        "dificuldade": "Fácil",
         "link": "kiriko",
         "img": "kiriko.png"
     },
@@ -55,6 +61,7 @@
         "titulo": "Personagem favorito do Max",
         "função": "Suporte",
         "informação": "",
+        "dificuldade": "Fácil",
         "link": "lucio",
         "img": "lucio.png"
     },
@@ -63,6 +70,7 @@
         "titulo": "O cientista brilhante por trás da bioluz",
         "função": "Suporte",
         "informação": "",
+        "dificuldade": "Fácil",
         "link": "lifeweaver",
         "img": "lifeweaver.png"
     },
@@ -71,6 +79,7 @@
         "titulo": "Portador da tecnologia de cura da Faculdade da Água da Universidade Wuxing",
         "função": "Suporte",
         "informação": "",
+        "dificuldade": "Média",
         "link": "wuyang",
         "img": "wuyang.webp"
     },
@@ -79,6 +88,7 @@
         "titulo": "Monge ômnico que vaga pelo mundo em busca de iluminação espiritual.",
         "função": "Suporte",
         "informação": "",
+        "dificuldade": "Difícil",
         "link": "zenyatta",
         "img": "zenyatta.png"
     },
@@ -87,6 +97,7 @@
         "titulo": "Líder da gangue Deadlock e uma pistoleira respeitada.",
         "função": "Dano",
         "informação": "",
+        "dificuldade": "Difícil",
         "link": "ashe",
         "img": "ashe.png"
     },
@@ -95,6 +106,7 @@
         "titulo": "Autômato de batalha que explora o mundo, fascinado pela natureza.",
         "função": "Dano",
         "informação": "",
+        "dificuldade": "Fácil",
         "link": "bastion",
         "img": "bastion.png"
     },
@@ -103,6 +115,7 @@
         "titulo": "Pistoleiro que busca justiça com seus próprios termos.",
         "função": "Dano",
         "informação": "",
+        "dificuldade": "Média",
         "link": "cassidy",
         "img": "cassidy.png"
     },
@@ -111,6 +124,7 @@
         "titulo": "Robô adaptativo programado com inteligência artificial de rápida evolução.",
         "função": "Dano",
         "informação": "",
+        "dificuldade": "Média",
         "link": "echo",
         "img": "echo.png"
     },
@@ -119,6 +133,7 @@
         "titulo": "Ciborgue ninja que encontrou a paz com seu corpo aprimorado.",
         "função": "Dano",
         "informação": "",
+        "dificuldade": "Média",
         "link": "genji",
         "img": "genji.png"
     },
@@ -127,6 +142,7 @@
         "titulo": "Arqueiro mortal e assassino com habilidade inigualável.",
         "função": "Dano",
         "informação": "",
+        "dificuldade": "Difícil",
         "link": "hanzo",
         "img": "hanzo.png"
     },
@@ -135,6 +151,7 @@
         "titulo": "Maníaco por explosivos que vive para o caos e a destruição.",
         "função": "Dano",
         "informação": "",
+        "dificuldade": "Fácil",
         "link": "junkrat",
         "img": "junkrat.png"
     },
@@ -143,6 +160,7 @@
         "titulo": "Climatologista que luta para preservar o meio ambiente.",
         "função": "Dano",
         "informação": "",
+        "dificuldade": "Média",
         "link": "mei",
         "img": "mei.png"
     },
@@ -151,6 +169,7 @@
         "titulo": "Oficial de segurança que patrulha os céus em sua armadura de combate.",
         "função": "Dano",
         "informação": "",
+        "dificuldade": "Fácil",
         "link": "pharah",
         "img": "pharah.png"
     },
@@ -159,6 +178,7 @@
         "titulo": "Mercenário que caça os ex-agentes da Overwatch.",
         "função": "Dano",
         "informação": "",
+        "dificuldade": "Fácil",
         "link": "reaper",
         "img": "reaper.png"
     },
@@ -167,6 +187,7 @@
         "titulo": "Ex-capitã da Overwatch com aprimoramentos cibernéticos.",
         "função": "Dano",
         "informação": "",
+        "dificuldade": "Média",
         "link": "sojourn",
         "img": "sojourn.png"
     },
@@ -175,6 +196,7 @@
         "titulo": "Vigilante que busca expor a verdade por trás do colapso da Overwatch.",
         "função": "Dano",
         "informação": "",
+        "dificuldade": "Fácil",
         "link": "soldado76",
         "img": "soldado76.png"
     },
@@ -183,6 +205,7 @@
         "titulo": "Hacker notória que usa informações para manipular os poderosos.",
         "função": "Dano",
         "informação": "",
+        "dificuldade": "Difícil",
         "link": "sombra",
         "img": "sombra.png"
     },
@@ -191,6 +214,7 @@
         "titulo": "Aventureira que salta no tempo, sempre otimista e cheia de energia.",
         "função": "Dano",
         "informação": "",
+        "dificuldade": "Difícil",
         "link": "tracer",
         "img": "tracer.png"
     },
@@ -199,6 +223,7 @@
         "titulo": "Ex-pro-gamer que agora pilota um mecha de última geração.",
         "função": "Tanque",
         "informação": "",
+        "dificuldade": "Fácil",
         "link": "dva",
         "img": "dva.png"
     },
@@ -207,6 +232,7 @@
         "titulo": "Líder da Talon que acredita que o conflito fortalece a humanidade.",
         "função": "Tanque",
         "informação": "",
+        "dificuldade": "Difícil",
         "link": "doomfist",
         "img": "doomfist.png"
     },
@@ -215,6 +241,7 @@
         "titulo": "A governante implacável de Junkertown.",
         "função": "Tanque",
         "informação": "",
+        "dificuldade": "Média",
         "link": "junkerqueen",
         "img": "junkerqueen.png"
     },
@@ -223,6 +250,7 @@
         "titulo": "Um mercenário com duas metralhadoras e um grande sorriso.",
         "função": "Tanque",
         "informação": "",
+        "dificuldade": "Fácil",
         "link": "mauga",
         "img": "mauga.png"
     },
@@ -231,6 +259,7 @@
         "titulo": "Guardiã robótica de Numbani, criada para proteger a cidade.",
         "função": "Tanque",
         "informação": "",
+        "dificuldade": "Fácil",
         "link": "orisa",
         "img": "orisa.png"
     },
@@ -239,6 +268,7 @@
         "titulo": "Líder da Null Sector, lutando pela liberdade dos ômnicos.",
         "função": "Tanque",
         "informação": "",
+        "dificuldade": "Média",
         "link": "ramattra",
         "img": "ramattra.png"
     },
@@ -247,6 +277,7 @@
         "titulo": "Um cavaleiro de uma era passada que vive por um código de honra.",
         "função": "Tanque",
         "informação": "",
+        "dificuldade": "Fácil",
         "link": "reinhardt",
         "img": "reinhardt.png"
     },
@@ -255,6 +286,7 @@
         "titulo": "Assassino impiedoso conhecido por sua crueldade e gancho.",
         "função": "Tanque",
         "informação": "",
+        "dificuldade": "Média",
         "link": "roadhog",
         "img": "roadhog.png"
     },
@@ -263,6 +295,7 @@
         "titulo": "Astrofísico excêntrico que ganhou o poder de controlar a gravidade.",
         "função": "Tanque",
         "informação": "",
+        "dificuldade": "Média",
         "link": "sigma",
         "img": "sigma.png"
     },
@@ -271,6 +304,7 @@
         "titulo": "Gorila superinteligente e cientista brilhante.",
         "função": "Tanque",
         "informação": "",
+        "dificuldade": "Difícil",
         "link": "winston",
         "img": "winston.png"
     },
@@ -279,6 +313,7 @@
         "titulo": "Um hamster geneticamente modificado que pilota uma bola de demolição.",
         "função": "Tanque",
         "informação": "",
+        "dificuldade": "Difícil",
         "link": "wreckingball",
         "img": "wreckingball.png"
     },
@@ -287,6 +322,7 @@
         "titulo": "Uma das mulheres mais fortes do mundo, que protege sua pátria.",
         "função": "Tanque",
         "informação": "",
+        "dificuldade": "Fácil",
         "link": "zarya",
         "img": "zarya.png"
     }

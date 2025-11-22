@@ -84,6 +84,16 @@ function showHeroDetail(heroLink) {
         </div>
     ` : '';
 
+    // Mapa de descrições para cada nível de dificuldade. Mais limpo e fácil de manter.
+    const descricoesDificuldade = {
+        "Fácil": "Este personagem pode ser dominado de forma rápida e intuitiva, requerendo pouca dedicação de tempo para ser utilizado de forma satisfatória.",
+        "Média": "Este personagem requer um aprendizado básico para ser utilizado de maneira satisfatória.",
+        "Difícil": "Este personagem exige um longo tempo de aprendizado e habilidade para ser utilizado de maneira satisfatória."
+    };
+
+    // Obtém a descrição correspondente ou um texto padrão se não encontrar.
+    const descricaoDificuldade = descricoesDificuldade[heroData.dificuldade] || "Dificuldade não informada.";
+
     // Preenche a view de detalhes com as informações do herói
     detailView.innerHTML = `
         <div class="hero-detail-content">
@@ -92,6 +102,7 @@ function showHeroDetail(heroLink) {
             <h1>${heroData.nome}</h1>
             <h2>${heroData.titulo}</h2>
             <p><strong>Função:</strong> ${heroData.função}</p>
+            <p><strong>Dificuldade: ${heroData.dificuldade}</strong> - ${descricaoDificuldade}</p>
             <p class="hero-info">${heroData.informação}</p>
             ${videoHtml}
         </div>
@@ -137,7 +148,7 @@ function exibirCards(dado) {
                 <h2>${dado.nome}</h2>
                 <p><strong>Título:</strong> ${dado.titulo}</p>
                 <p><strong>Função:</strong> ${dado.função}</p>
-                <br>
+                <p><strong>Dificuldade:</strong> ${dado.dificuldade}</p>
                 <img class="card-image-hover" src="images/characters/${dado.img}" alt="Imagem de ${dado.nome}">
         `;
 
