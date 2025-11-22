@@ -181,6 +181,8 @@ article {
     margin-bottom: 1.25rem; /* Margem inferior */
     box-shadow: none; /* Sem sombra */
     transition: background-color 0.3s ease, border-bottom-color 0.3s ease, transform 0.3s ease; /* Transição suave */
+    border-left: 3px solid var(--primary-color); /* Barra lateral esquerda */
+    border-right: 3px solid var(--primary-color); /* Barra lateral direita */
     border-bottom: 1px solid var(--bg-color); /* Borda inferior */
     padding-bottom: 1.5rem; /* Espaçamento interno inferior */
 }
@@ -251,7 +253,7 @@ article a {
     width: 150px; /* Largura fixa para a imagem. Ajuste se necessário. */
     object-fit: cover; /* Cobre a área sem distorcer a imagem */
     object-position: center; /* Centraliza a imagem horizontalmente e a posiciona um pouco abaixo do topo */
-    opacity: 0; /* Invisível por padrão */
+    opacity: 0.2; /* Invisível por padrão */
     transition: opacity 0.4s ease; /* Transição suave para o aparecimento */
 }
 
