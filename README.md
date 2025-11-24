@@ -18,3 +18,5 @@ O site exibe uma coleção de cartões, cada um representando um herói. Ao inte
 - A sua função principal no jogo.
 - Uma breve descrição sobre o personagem.
 - Imagens e links para vídeos de apresentação.
+
+#Aviso: O Github pages ta meio bugado
